@@ -13,11 +13,11 @@ const Hero = () => (
       <img src={item.img} style={{width:"30%", borderRadius:"150px"}}/>
       ))}
       <SectionTitle main center>
-        Hello, I'm Egha! <br/>
+        Hi, I'm Egha! <br/>
         Welcome to my portofolio.
       </SectionTitle>
       <SectionText>
-      I am a FULL STACK WEB DEVELOPER living in Phoenix, AZ. I enjoy designing, coding, and developing websites and apps from scratch. I love exploring ideas that can give a good impact on the community, and implement them in my programming projects. I love what I'm doing!
+      I am a Full Stack Web Developer based in Phoenix, AZ, with a strong passion for creating websites and applications from start to finish. I am dedicated to developing innovative solutions that benefit the community. I approach my projects with genuine enthusiasm, implementing creative ideas to make a positive impact. I strive for excellence in every project I take on.
       </SectionText>
       <Button onClick={() => window.open("https://docs.google.com/document/d/1ZQ1_HS95IO0BIo5HMujOzZNvS7xcb_ZSvJfOsrhJ2sg/edit")}>My Live Resume</Button>
     </LeftSection>
